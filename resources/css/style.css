@@ -25,6 +25,8 @@ header h1 {
     font-size: 21px;
 }
 
-footer p {
+.copyright {
+    font-size: 21px;
+    color: grey;
     text-align: right;
 }
