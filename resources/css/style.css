@@ -15,13 +15,13 @@ header h1 {
     font-size: 16px;
 }
 
-h2 {
+.header-sec {
     font-size: 42px;
     font-weight: 300;
 }
 
-p {
-    color: gray;
+.header-fourth {
+    color: grey;
     font-size: 21px;
 }
 
